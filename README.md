@@ -16,7 +16,7 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/nodejs-chatgpt-mcq-solver.g
+   git clone https://github.com/your-username/nodejs-chatgpt-mcq-solver.g](https://github.com/RidhamAnand/-Mcq_Solver-.git
    cd nodejs-chatgpt-mcq-solver
 
 ## Configuration
